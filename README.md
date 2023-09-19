@@ -1,9 +1,9 @@
-# React + Styled Components로 커스텀 Dropdown 컴포넌트 만들기
+# ReactJs + Styled-components로 커스텀 Dropdown 컴포넌트 만들기
 
 ## About
-맨날 Mui 사용하다가 Dropdown 때문에 큰 패키지를 매번 설치하는 나 자신에 한탄하여 이 컴포넌트를 만듭니다.
+ReactJs + Styled-components로 만든 커스텀 Dropdown 컴포넌트
 <br />
-I made this Select Component because I lamented myself who installed Mui, which is pretty large package, only to make DropDown component.
+Custom made Dropdown Components built using ReactJs, Styled-components.
 
 ## How to use
 
